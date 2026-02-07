@@ -9,7 +9,7 @@ description = "A lightweight Tkinter GUI tool to search folders/files and (optio
 readme = "README.md"
 requires-python = ">=3.9"
 license = { file = "LICENSE" }
-authors = [{ name = "Your Name" }]
+authors = [{ name = "atifafzal786" }]
 keywords = ["search", "grep", "tkinter", "utility", "gui"]
 classifiers = [
   "Programming Language :: Python :: 3",
@@ -18,9 +18,9 @@ classifiers = [
 ]
 
 [project.urls]
-Documentation = "https://github.com/<you>/<repo>/tree/main/doc"
-Repository = "https://github.com/<you>/<repo>"
-Issues = "https://github.com/<you>/<repo>/issues"
+Documentation = "https://github.com/atifafzal786/Grepper-Utility/tree/main/doc"
+Repository = "https://github.com/atifafzal786/Grepper-Utility"
+Issues = "https://github.com/atifafzal786/Grepper-Utility/issues"
 
 [project.scripts]
 grepper = "grepper:main"
