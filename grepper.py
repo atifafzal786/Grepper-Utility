@@ -23,7 +23,7 @@ import tkinter as tk
 from tkinter import ttk, filedialog, messagebox
 
 __all__ = ["main", "__version__"]
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 
 
 # ---------- Utilities ----------
